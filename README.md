@@ -26,10 +26,10 @@ $ node demo2.js
 
 3. Hey puppeteer generate my resume from linkedIn in pdf format
 
+Create a `resume` folder inside `src` manually to locate your created resumes.
+
 ```bash
 $ node demo3.js
 ```
-You can find resume created in demo3.js inside `resume` folder.
-
 
 Author: [Chirag Goel](http://www.chirag-goel.in) 
