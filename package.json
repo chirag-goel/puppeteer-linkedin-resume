@@ -1,0 +1,10 @@
+{
+    "name": "Puppeteer",
+    "author": "Chirag Goel",
+    "devDependencies": {
+        "puppeteer": "^1.17.0"
+    },
+    "dependencies": {
+        "puppeteer-core": "^1.17.0"
+    }
+}
