@@ -5,6 +5,7 @@ Puppeteer is a Node library which provides a high-level API to control Chrome or
 ## Getting Started
 
 - Clone Repository
+- Run `$ cd puppeteer-linkedin-resume/` to go inside working directory
 - Run `$ npm install` to install all the depedencies
 - Run `$ cd src/` to go inside src
 
